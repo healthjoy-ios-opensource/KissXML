@@ -1,4 +1,4 @@
-#import "DDXML.h"
+#import <KissXML/DDXML.h>
 
 
 // We can't rely solely on NSAssert, because many developers disable them for release builds.
