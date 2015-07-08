@@ -2,3 +2,7 @@
 *.mode1v3
 *.mode2v3
 xcuserdata
+
+KissXML-iOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+KissXML-iOS.xcodeproj/project.xcworkspace/xcshareddata/KissXML-iOS.xccheckout
